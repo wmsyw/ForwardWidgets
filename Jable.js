@@ -1,5 +1,5 @@
 WidgetMetadata = {
-  id: "jable",
+  id: "jable-av",
   title: "Jable",
   description: "获取 Jable 视频",
   author: "nibiru",
