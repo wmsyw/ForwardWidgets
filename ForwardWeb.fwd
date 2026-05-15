@@ -1,7 +1,7 @@
 {
   "title": "𝓝𝓲𝓰𝓱𝓽 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
-  "description": "汇集瑟瑟、直播、VOD、RSS播客等模块",
-  "icon": "https://raw.githubusercontent.com/yudingsxt/ForwardWidgets/refs/heads/main/icon/icon1.PNG",
+  "description": "",
+  "icon": "",
   "widgets": [
     {
       "id": "jable-av",
